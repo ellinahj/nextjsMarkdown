@@ -1,2 +1,6 @@
 # nextjsMarkdown
-next.js with SSG
+next.js with SSG test
+
+```bash
+npm run dev
+```
